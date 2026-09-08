@@ -80,7 +80,7 @@ Tujuan dari tugas ini adalah:
 
 text
 .
-├── tugas_statistika_komputasi.R
+├── tugas_komstat_week1.R
 └── README.md
 
 
