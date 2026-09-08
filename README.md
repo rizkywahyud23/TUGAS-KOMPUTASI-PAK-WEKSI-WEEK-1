@@ -31,15 +31,10 @@ Pada tugas ini terdapat beberapa struktur data yang dibuat, yaitu:
    * Vector numeric
    * Vector integer
    * Vector logical
-   * Vector character
 
 2. *Matrix*
 
-   * Matrix dengan ukuran 4 × 4
-
 3. *Array*
-
-   * Array multidimensi
 
 4. *Data Frame*
 
