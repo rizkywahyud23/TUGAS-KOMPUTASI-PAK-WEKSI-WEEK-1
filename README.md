@@ -40,7 +40,6 @@ Pada tugas ini terdapat beberapa struktur data yang dibuat, yaitu:
 
    * Kolom character
    * Kolom numeric
-   * Kolom integer
    * Kolom logical
 
 5. *List*
