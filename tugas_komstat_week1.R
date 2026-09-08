@@ -28,8 +28,8 @@ Arrays
 #7 Data frame
 data_frem <- data.frame(
   Nama = c("Taqi", "Rehan", "Rapi"),
-  Nim = c("053", "002", "032"),
-  Kelas = c("B", "B", "A"),
+  Kelas = c("A", "B", "A"),
+  IPK = c(4, 3.71, 3.43),
   Lulus = c(TRUE, FALSE, TRUE)
 )
 data_frem
